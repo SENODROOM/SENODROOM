@@ -79,58 +79,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 <a href="https://github.com/SENODROOM/Canvas-Market">Canvas Market</a></h3>
-      <p>A full-stack marketplace platform connecting canvas artists with buyers. Features secure auth, product listings, shopping cart, payment integration, seller dashboard, and a full admin panel.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white"/>
-      </p>
-      <p>⭐ 2 &nbsp;|&nbsp; 🍴 0</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/SENODROOM/AnonymousThinker">AnonymousThinker</a></h3>
-      <p>A ChatGPT-like AI chat app built on the MERN stack using free AI APIs (Hugging Face + Groq). Supports custom AI personas, training data export, JWT auth, chat history, and full mobile responsiveness.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white"/>
-      </p>
-      <p>⭐ 0 &nbsp;|&nbsp; 🍴 0 &nbsp;|&nbsp; Topics: <code>ai</code> <code>mern</code> <code>llm</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📐 <a href="https://github.com/SENODROOM/SLaNg">SLaNg</a></h3>
-      <p><strong>Saad's Language for Analytical Numerics & Geometry</strong> — A zero-dependency JavaScript math engine for symbolic & numerical calculus. Supports rational functions, quotient rule differentiation, Simpson's rule integration, Taylor series, gradient, Lagrange multipliers, and 75+ features.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/MIT-License-green?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Zero-Dependencies-00FFB2?style=flat-square"/>
-      </p>
-      <p>⭐ 2 &nbsp;|&nbsp; 🍴 1 &nbsp;|&nbsp; Topics: <code>javascript</code> <code>calculus</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <br/>
-      <p align="center">
-        <i>More projects coming soon...</i><br/><br/>
-        <a href="https://github.com/SENODROOM?tab=repositories">
-          <img src="https://img.shields.io/badge/View_All_Repos-0d1117?style=for-the-badge&logo=github&logoColor=00FFB2"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🌐 Find Me
 
 <div align="center">
