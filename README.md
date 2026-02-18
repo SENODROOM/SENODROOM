@@ -64,8 +64,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SENODROOM&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FFB2&icon_color=00FFB2&text_color=ffffff&border_radius=10" height="170"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SENODROOM&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FFB2&text_color=ffffff&border_radius=10" height="170"/>
+<img src="https://github-stats.as93.net/api?username=SENODROOM&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FFB2&icon_color=00FFB2&text_color=ffffff" height="170"/>
 
 </div>
 
