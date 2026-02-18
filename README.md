@@ -17,8 +17,6 @@
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-
 ## `> whoami`
 
 ```json
