@@ -66,8 +66,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SENODROOM&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFB2&icon_color=00FFB2&text_color=ffffff&border_radius=10" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENODROOM&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFB2&text_color=ffffff&border_radius=10" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SENODROOM&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FFB2&icon_color=00FFB2&text_color=ffffff&border_radius=10" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENODROOM&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FFB2&text_color=ffffff&border_radius=10" height="170"/>
 
 </div>
 
@@ -108,7 +108,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-muhammad--saad--amin.vercel.app-00FFB2?style=for-the-badge&logo=vercel&logoColor=black)](https://muhammad-saad-amin.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhammad--saad--amin.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-saad-amin.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Saad_Amin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-amin-24779622a/)
 [![Email](https://img.shields.io/badge/Email-saadamin691@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadamin691@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B92_329_7930375-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923297930375)
