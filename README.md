@@ -64,12 +64,6 @@
 
 <div align="center">
 
-<img src="https://github-stats.as93.net/api?username=SENODROOM&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FFB2&icon_color=00FFB2&text_color=ffffff" height="170"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SENODROOM&theme=dark)](https://git.io/streak-stats)
 
 </div>
