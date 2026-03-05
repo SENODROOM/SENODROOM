@@ -21,12 +21,12 @@
 
 ```json
 {
-  "name"     : "Muhammad Saad Amin",
-  "alias"    : "SENODROOM",
-  "role"     : "Full Stack Developer",
-  "stack"    : ["Frontend", "Backend", "DevOps"],
-  "mindset"  : "Ship it. Iterate. Improve.",
-  "status"   : "🟢 Building something awesome"
+  "name": "Muhammad Saad Amin",
+  "alias": "SENODROOM",
+  "role": "Full Stack Developer",
+  "stack": ["Frontend", "Backend", "DevOps"],
+  "mindset": "Ship it. Iterate. Improve.",
+  "status": "🟢 Building something awesome"
 }
 ```
 
@@ -39,18 +39,21 @@
 <div align="center">
 
 ### 🎨 Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🚀 DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -64,7 +67,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SENODROOM&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SENODROOM&theme=dark)](https://github-readme-streak-stats.herokuapp.com?user=SENODROOM&theme=dark)
 
 </div>
 
@@ -89,6 +92,6 @@
 /* The best code is the code that ships. */
 ```
 
-*If something I built helped you — drop a ⭐ and make my day.*
+_If something I built helped you — drop a ⭐ and make my day._
 
 </div>
