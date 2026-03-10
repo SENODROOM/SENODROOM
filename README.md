@@ -154,8 +154,6 @@ Building at the intersection of language models and real-world applications:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SENODROOM&theme=dark)](https://github-readme-streak-stats.herokuapp.com?user=SENODROOM&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SENODROOM&layout=compact&theme=dark&hide_border=true&title_color=00FFB2&text_color=ffffff&bg_color=0d1117)
-
 </div>
 
 ---
