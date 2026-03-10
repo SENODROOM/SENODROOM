@@ -39,6 +39,25 @@
 
 ---
 
+## 💬 Languages I Speak
+
+<div align="center">
+
+> _Not just frameworks — the actual languages that run the machine._
+
+| Language                                                                                                          | Why I Use It                                                                                |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)                            | Low-level power. Memory, pointers, performance. The foundation everything else is built on. |
+| ![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)          | My compiler weapon of choice. Built Quantum Language entirely in C++17 with LLVM.           |
+| ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)             | AI/ML pipelines, RAG systems, LLM integration, rapid prototyping.                           |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | The web's native tongue. Full stack from browser to Node.js server.                         |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)                   | Zero-cost abstractions, memory safety without GC. Next frontier.                            |
+| ![Quantum](https://img.shields.io/badge/Quantum_Lang-00FFB2?style=for-the-badge&logo=atom&logoColor=black)        | My own creation — dynamically-typed, multi-syntax, cybersecurity-ready scripting language.  |
+
+</div>
+
+---
+
 ## ⚡ Tech Arsenal
 
 <div align="center">
@@ -70,8 +89,9 @@
 
 ### ⚙️ Compiler & Systems
 
-![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
@@ -91,15 +111,15 @@
 
 <div align="center">
 
-| Project                                                                 | Description                                                                                                                        | Tech              |
-| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [⚡ Quantum Language](https://github.com/SENODROOM/Quantum-Language)    | A dynamically-typed, cybersecurity-ready scripting language built from scratch. Multi-syntax (Python/JS/C++), REPL, OOP, closures. | C++17, CMake      |
-| [🧠 Quantum Logic](https://github.com/SENODROOM/Quantum-Logic)          | Logic and reasoning engine built on top of the Quantum ecosystem                                                                   | C++               |
-| [🌐 Portfolio](https://github.com/SENODROOM/Saad-s-Portfolio)           | Personal developer portfolio — live at [muhammad-saad-amin.vercel.app](https://muhammad-saad-amin.vercel.app/)                     | HTML, CSS, JS     |
-| [🎨 MUI App](https://github.com/SENODROOM/MUI-App)                      | Material UI component-driven application                                                                                           | TypeScript, React |
-| [🧪 Web Experiments](https://github.com/SENODROOM/Saad-Web-Experiments) | A collection of frontend experiments and explorations                                                                              | JavaScript        |
-| [🗄️ SQL](https://github.com/SENODROOM/SQL)                              | SQL practice, queries and database work                                                                                            | SQL               |
-| [⚙️ C++ Programming](https://github.com/SENODROOM/CPP-Programming)      | Systems programming, algorithms, and low-level work                                                                                | C++               |
+| Project                                                                 | Description                                                                                                                                                                                                          | Tech               |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [⚡ Quantum Language](https://github.com/SENODROOM/Quantum-Language)    | A dynamically-typed, cybersecurity-ready scripting language built from scratch. Multi-syntax (Python/JS/C++), REPL, OOP, closures. Currently adding AES/RSA encryption, network scanning & hash functions in v2.0.0. | C++17, CMake, LLVM |
+| [🧠 Quantum Logic](https://github.com/SENODROOM/Quantum-Logic)          | Logic and reasoning engine built on top of the Quantum ecosystem                                                                                                                                                     | C++                |
+| [🌐 Portfolio](https://github.com/SENODROOM/Saad-s-Portfolio)           | Personal developer portfolio — live at [muhammad-saad-amin.vercel.app](https://muhammad-saad-amin.vercel.app/)                                                                                                       | HTML, CSS, JS      |
+| [🎨 MUI App](https://github.com/SENODROOM/MUI-App)                      | Material UI component-driven application                                                                                                                                                                             | TypeScript, React  |
+| [🧪 Web Experiments](https://github.com/SENODROOM/Saad-Web-Experiments) | A collection of frontend experiments and explorations                                                                                                                                                                | JavaScript         |
+| [🗄️ SQL](https://github.com/SENODROOM/SQL)                              | SQL practice, queries and database work                                                                                                                                                                              | SQL                |
+| [⚙️ C++ Programming](https://github.com/SENODROOM/CPP-Programming)      | Systems programming, algorithms, and low-level work                                                                                                                                                                  | C++                |
 
 </div>
 
@@ -133,6 +153,8 @@ Building at the intersection of language models and real-world applications:
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SENODROOM&theme=dark)](https://github-readme-streak-stats.herokuapp.com?user=SENODROOM&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SENODROOM&layout=compact&theme=dark&hide_border=true&title_color=00FFB2&text_color=ffffff&bg_color=0d1117)
 
 </div>
 
