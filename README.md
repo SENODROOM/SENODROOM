@@ -9,7 +9,7 @@
 ╚══════╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+LLM+Engineer+%F0%9F%A4%96;Compiler+%26+Language+Designer+%E2%9A%99%EF%B8%8F;Building+from+database+to+deployment;Turning+ideas+into+production+reality;Frontend+%2B+Backend+%2B+AI+%2B+Everything+in+between)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+LLM+Engineer+%F0%9F%A4%96;Compiler+%26+Language+Designer+%E2%9A%99%EF%B8%8F;Building+from+database+to+deployment;Turning+ideas+into+production+reality;Frontend+%2B+Backend+%2B+AI+%2B+Everything+in+between)]([https://git.io/typing-svg](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+LLM+Engineer+%F0%9F%A4%96;Compiler+%26+Language+Designer+%E2%9A%99%EF%B8%8F;Building+from+database+to+deployment;Turning+ideas+into+production+reality;Frontend+%2B+Backend+%2B+AI+%2B+Everything+in+between))
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SENODROOM&color=00FFB2&style=flat-square&label=PROFILE+VIEWS)
 
