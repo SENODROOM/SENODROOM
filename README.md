@@ -162,7 +162,7 @@ Building at the intersection of language models and real-world applications:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-muhammad--saad--amin.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-saad-amin.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadsaadamin.me-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadsaadamin.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Saad_Amin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-amin-24779622a/)
 [![Email](https://img.shields.io/badge/Email-saadamin691@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadamin691@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/Phone-%2B92_329_7930375-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923297930375)
