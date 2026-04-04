@@ -23,7 +23,6 @@
 {
   "name": "Muhammad Saad Amin",
   "alias": "SENODROOM",
-  "age": 18,
   "roles": [
     "Full Stack Developer",
     "AI & LLM Engineer",
