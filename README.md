@@ -178,6 +178,6 @@ Building at the intersection of language models and real-world applications:
 
 _If something I built helped you — drop a ⭐ and make my day._
 
-**18 years old. Full Stack. AI. Compilers. Still going.** ⚡
+**Full Stack. AI. Compilers. Still going.** ⚡
 
 </div>
