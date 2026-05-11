@@ -14,7 +14,7 @@
 ![Committers Badge](https://user-badge.committers.top/pakistan/SENODROOM.svg)
 </br>
 ![Profile Views](https://komarev.com/ghpvc/?username=SENODROOM&color=1a7f4e&style=for-the-badge&label=PROFILE%20VIEWS)
-[![Rankistan rank badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FSENODROOM&query=%24.message&label=Rankistan&color=1a7f4e&labelColor=0f6e56&style=for-the-badge&logo=github&logoColor=white&cacheSeconds=300)](https://rankistan.dev)
+[![Rankistan rank badge](https://img.shields.io/badge/Rankistan-%2366-1a7f4e?labelColor=0f6e56&style=for-the-badge&logo=github&logoColor=white)](https://rankistan.dev)
 
 </div>
 
