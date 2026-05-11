@@ -11,7 +11,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+LLM+Engineer+%F0%9F%A4%96;Compiler+%26+Language+Designer+%E2%9A%99%EF%B8%8F;Building+from+database+to+deployment;Turning+ideas+into+production+reality;Frontend+%2B+Backend+%2B+AI+%2B+Everything+in+between)]([https://git.io/typing-svg](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+LLM+Engineer+%F0%9F%A4%96;Compiler+%26+Language+Designer+%E2%9A%99%EF%B8%8F;Building+from+database+to+deployment;Turning+ideas+into+production+reality;Frontend+%2B+Backend+%2B+AI+%2B+Everything+in+between))
 
-[![committers.top badge](https://user-badge.committers.top/pakistan_public/SENODROOM.svg)](https://user-badge.committers.top/pakistan_public/SENODROOM)![Profile Views](https://komarev.com/ghpvc/?username=SENODROOM&color=0f6e56&style=for-the-badge&label=PROFILE%20VIEWS)
+[![Committers](https://img.shields.io/badge/Committers-Pakistan%20Rank-1a7f4e?style=for-the-badge&logo=github&logoColor=white)](https://user-badge.committers.top/pakistan_public/SENODROOM)
+![Profile Views](https://komarev.com/ghpvc/?username=SENODROOM&color=1a7f4e&style=for-the-badge&label=PROFILE%20VIEWS)
 [![Rankistan rank badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FSENODROOM&query=%24.message&label=Rankistan&color=1a7f4e&labelColor=0f6e56&style=for-the-badge&logo=github&logoColor=white&cacheSeconds=300)](https://rankistan.dev)
 
 </div>
