@@ -30,7 +30,7 @@
     "Full Stack Developer",
     "AI & LLM Engineer",
     "Compiler Developer",
-    "Cybersecurity Enthusiast"
+    "Ethical Hacker"
   ],
   "stack": ["Frontend", "Backend", "AI/ML", "DevOps", "Compilers"],
   "mindset": "Ship it. Iterate. Improve.",
